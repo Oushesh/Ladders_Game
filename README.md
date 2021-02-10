@@ -8,3 +8,6 @@ Example: croissant to baritone in least amount of steps possible using only the 
 starting word: croissant (-C) --> arsonist (-S) --> aroints (+E) --> notaries (+B) --> baritones (-S) -->  baritone 
 
 Code was implemented in matlab. see the .m files.
+
+
+I will rewrite this in python for you. This is an important coding question for top tech US Companies.
