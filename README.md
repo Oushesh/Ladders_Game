@@ -10,4 +10,6 @@ starting word: croissant (-C) --> arsonist (-S) --> aroints (+E) --> notaries (+
 Code was implemented in matlab. see the .m files.
 
 
-I will rewrite this in python for you. This is an important coding question for top tech US Companies.
+
+## TODO: rewrite the same thing in an elegant manner for US top tech companies.
+   * I will rewrite this in python for you. This is an important coding question for top tech US Companies.
